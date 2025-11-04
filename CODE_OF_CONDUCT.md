@@ -1,0 +1,2 @@
+## Code of Conduct
+This project has adopted the Progress Code of Conduct and Business Ethics (published at http://investors.progress.com/governance.cfm) which shall also be followed by you in your development and use of the product
