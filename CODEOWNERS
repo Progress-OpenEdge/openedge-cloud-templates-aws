@@ -1,6 +1,6 @@
 # Lines starting with '#' are comments.
 # Each line is a file pattern followed by one or more owners.
-# This is used to control checkins into 3.0.x
+# This is used to control checkins into release-13.1.x
 
 # These owners will be the default owners for everything in the repo.
 #*       @defunkt
